@@ -1,0 +1,1 @@
+{"type":"python","detailedtype":"default","author":"holy1983_3if11_facebook","name":"djangogirls","description":"장고걸스","date":"2015/9/3 7:39:42","plugins":{"goorm.plugin.python":[{"plugin.python.main":"index","plugin.python.source_path":"","name":"python"}]},"is_user_plugin":false,"storage":"CONTAINER"}
